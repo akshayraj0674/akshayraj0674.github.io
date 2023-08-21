@@ -1,4 +1,4 @@
-baseurl = "https://example.com/"
+baseurl = "https://akshayraj0674.github.io/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
@@ -13,7 +13,7 @@ paginate = 5
 [languages]
   [languages.en]
     title = "Terminal"
-    subtitle = "A simple, retro theme for Hugo"
+    subtitle = "A simple, retro theme for Hugo-terminal"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
